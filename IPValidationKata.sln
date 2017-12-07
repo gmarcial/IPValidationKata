@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPValidationKata", "IPValidationKata/IPValidationKata.csproj", "{06D1DFFF-7C14-4613-8ADE-937B1A44FE91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPValidationKataTest", "IPValidationKataTest\IPValidationKataTest.csproj", "{DDDC9C5E-750B-4306-93B5-3084B3F9CA3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D1DFFF-7C14-4613-8ADE-937B1A44FE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D1DFFF-7C14-4613-8ADE-937B1A44FE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D1DFFF-7C14-4613-8ADE-937B1A44FE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D1DFFF-7C14-4613-8ADE-937B1A44FE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDC9C5E-750B-4306-93B5-3084B3F9CA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDC9C5E-750B-4306-93B5-3084B3F9CA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDC9C5E-750B-4306-93B5-3084B3F9CA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDC9C5E-750B-4306-93B5-3084B3F9CA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

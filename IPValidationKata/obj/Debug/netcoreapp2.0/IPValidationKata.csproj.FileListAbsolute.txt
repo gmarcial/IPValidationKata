@@ -1,0 +1,10 @@
+/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.deps.json
+/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.runtimeconfig.json
+/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.runtimeconfig.dev.json
+/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.dll
+/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.pdb
+/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.csproj.CoreCompileInputs.cache
+/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.AssemblyInfoInputs.cache
+/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.AssemblyInfo.cs
+/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.dll
+/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.pdb

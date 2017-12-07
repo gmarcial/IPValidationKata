@@ -1,0 +1,49 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKataTest/IPValidationKataTest.csproj",
+    "projectName": "IPValidationKataTest",
+    "projectPath": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKataTest/IPValidationKataTest.csproj",
+    "outputPath": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKataTest/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/IPValidationKata.csproj": {
+            "projectPath": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/IPValidationKata.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "15.3.0-preview-20170628-02"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "2.2.0"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "2.2.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
