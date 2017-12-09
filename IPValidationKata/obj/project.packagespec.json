@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/IPValidationKata.csproj",
+    "projectUniqueName": "/home/gmarcial/Documentos/Projetos/IPValidationKata/IPValidationKata/IPValidationKata.csproj",
     "projectName": "IPValidationKata",
-    "projectPath": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/IPValidationKata.csproj",
-    "outputPath": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/obj/",
+    "projectPath": "/home/gmarcial/Documentos/Projetos/IPValidationKata/IPValidationKata/IPValidationKata.csproj",
+    "outputPath": "/home/gmarcial/Documentos/Projetos/IPValidationKata/IPValidationKata/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp2.0"
     ],
@@ -13,14 +16,21 @@
       "netcoreapp2.0": {
         "projectReferences": {}
       }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
     }
   },
   "frameworks": {
     "netcoreapp2.0": {
       "dependencies": {
         "Microsoft.NETCore.App": {
+          "suppressParent": "All",
           "target": "Package",
-          "version": "2.0.0"
+          "version": "2.0.0",
+          "autoReferenced": true
         }
       },
       "imports": [

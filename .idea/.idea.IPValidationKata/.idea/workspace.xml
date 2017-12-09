@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7fe9a80-75e6-403d-9205-5fd0c0271a64" name="Default" comment="" />
+    <list default="true" id="a7fe9a80-75e6-403d-9205-5fd0c0271a64" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.IPValidationKata/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IPValidationKata/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.IPValidationKata/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IPValidationKata/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.IPValidationKata/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/IpValidation.cs" afterPath="$PROJECT_DIR$/IPValidationKata/IpValidation.cs" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.dll" afterPath="$PROJECT_DIR$/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.dll" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.pdb" afterPath="$PROJECT_DIR$/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.pdb" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.runtimeconfig.dev.json" afterPath="$PROJECT_DIR$/IPValidationKata/bin/Debug/netcoreapp2.0/IPValidationKata.runtimeconfig.dev.json" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.AssemblyInfoInputs.cache" afterPath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.AssemblyInfoInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.dll" afterPath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.dll" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.pdb" afterPath="$PROJECT_DIR$/IPValidationKata/obj/Debug/netcoreapp2.0/IPValidationKata.pdb" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/obj/IPValidationKata.csproj.nuget.cache" afterPath="$PROJECT_DIR$/IPValidationKata/obj/IPValidationKata.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/obj/IPValidationKata.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/IPValidationKata/obj/IPValidationKata.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/obj/project.assets.json" afterPath="$PROJECT_DIR$/IPValidationKata/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKata/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/IPValidationKata/obj/project.packagespec.json" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/IpValidationTests.cs" afterPath="$PROJECT_DIR$/IPValidationKataTest/IpValidationTests.cs" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/bin/Debug/netcoreapp2.0/IPValidationKata.dll" afterPath="$PROJECT_DIR$/IPValidationKataTest/bin/Debug/netcoreapp2.0/IPValidationKata.dll" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/bin/Debug/netcoreapp2.0/IPValidationKata.pdb" afterPath="$PROJECT_DIR$/IPValidationKataTest/bin/Debug/netcoreapp2.0/IPValidationKata.pdb" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/bin/Debug/netcoreapp2.0/IPValidationKataTest.dll" afterPath="$PROJECT_DIR$/IPValidationKataTest/bin/Debug/netcoreapp2.0/IPValidationKataTest.dll" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/bin/Debug/netcoreapp2.0/IPValidationKataTest.pdb" afterPath="$PROJECT_DIR$/IPValidationKataTest/bin/Debug/netcoreapp2.0/IPValidationKataTest.pdb" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/bin/Debug/netcoreapp2.0/IPValidationKataTest.runtimeconfig.dev.json" afterPath="$PROJECT_DIR$/IPValidationKataTest/bin/Debug/netcoreapp2.0/IPValidationKataTest.runtimeconfig.dev.json" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.AssemblyInfoInputs.cache" afterPath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.AssemblyInfoInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.dll" afterPath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.dll" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.pdb" afterPath="$PROJECT_DIR$/IPValidationKataTest/obj/Debug/netcoreapp2.0/IPValidationKataTest.pdb" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/obj/IPValidationKataTest.csproj.nuget.cache" afterPath="$PROJECT_DIR$/IPValidationKataTest/obj/IPValidationKataTest.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/obj/IPValidationKataTest.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/IPValidationKataTest/obj/IPValidationKataTest.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/obj/project.assets.json" afterPath="$PROJECT_DIR$/IPValidationKataTest/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/IPValidationKataTest/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/IPValidationKataTest/obj/project.packagespec.json" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,53 +44,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IPValidationKata/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding>
-                <marker date="1512667491215" expanded="true" signature="41:182" ph="{...}" />
-                <marker date="1512667491215" expanded="true" signature="61:180" ph="{...}" />
-                <marker date="1512667491215" expanded="true" signature="107:174" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IpValidation.cs" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="IpValidation.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IPValidationKata/IpValidation.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="432">
+              <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
               <folding>
-                <marker date="1512680647266" expanded="true" signature="41:430" ph="{...}" />
-                <marker date="1512680647266" expanded="true" signature="73:428" ph="{...}" />
-                <marker date="1512680647266" expanded="true" signature="109:132" ph="{...}" />
-                <marker date="1512680647266" expanded="true" signature="197:421" ph="{...}" />
-                <marker date="1512680647266" expanded="true" signature="285:411" ph="/* var ipAddresQuebradoPorOctets = ipAddres.Split('.'); ... */" />
+                <marker date="1512789557539" expanded="true" signature="6:32" ph="..." />
+                <marker date="1512789557539" expanded="true" signature="60:885" ph="{...}" />
+                <marker date="1512789557539" expanded="true" signature="99:883" ph="{...}" />
+                <marker date="1512789557539" expanded="true" signature="161:877" ph="{...}" />
+                <marker date="1512789557539" expanded="true" signature="391:770" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IpValidationTests.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IpValidationTests.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IPValidationKataTest/IpValidationTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            <state relative-caret-position="-189">
+              <caret line="93" column="9" lean-forward="false" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
               <folding>
-                <marker date="1512680569500" expanded="true" signature="6:67" ph="..." />
-                <marker date="1512680569500" expanded="true" signature="99:3621" ph="{...}" />
-                <marker date="1512680569500" expanded="true" signature="136:3619" ph="{...}" />
-                <marker date="1512680569500" expanded="true" signature="218:372" ph="{...}" />
-                <marker date="1512680569500" expanded="true" signature="711:857" ph="{...}" />
-                <marker date="1512680569500" expanded="true" signature="1324:1470" ph="{...}" />
-                <marker date="1512680569500" expanded="true" signature="1963:1996" ph="{...}" />
-                <marker date="1512680569500" expanded="true" signature="2618:2651" ph="{...}" />
-                <marker date="1512680569500" expanded="true" signature="3084:3117" ph="{...}" />
-                <marker date="1512680569500" expanded="true" signature="3580:3613" ph="{...}" />
+                <marker date="1512789985369" expanded="true" signature="6:67" ph="..." />
+                <marker date="1512789985369" expanded="true" signature="99:4956" ph="{...}" />
+                <marker date="1512789985369" expanded="true" signature="136:4954" ph="{...}" />
+                <marker date="1512789985369" expanded="true" signature="218:372" ph="{...}" />
+                <marker date="1512789985369" expanded="true" signature="711:857" ph="{...}" />
+                <marker date="1512789985369" expanded="true" signature="1324:1470" ph="{...}" />
+                <marker date="1512789985369" expanded="true" signature="1963:2108" ph="{...}" />
+                <marker date="1512789985369" expanded="true" signature="2730:2876" ph="{...}" />
+                <marker date="1512789985369" expanded="true" signature="3309:3454" ph="{...}" />
+                <marker date="1512789985369" expanded="true" signature="4207:4353" ph="{...}" />
+                <marker date="1512789985369" expanded="true" signature="4802:4948" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -64,18 +85,26 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>y</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/IPValidationKataTest/IpValidationTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IPValidationKata/IpValidation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/IPValidationKata/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IPValidationKata/IpValidation.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/IPValidationKataTest/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/IPValidationKata/IpValidadation.cs" />
-        <option value="$PROJECT_DIR$/IPValidationKataTest/IpValidationTests.cs" />
         <option value="$PROJECT_DIR$/IPValidationKata/IpValidation.cs" />
+        <option value="$PROJECT_DIR$/IPValidationKataTest/IpValidationTests.cs" />
       </list>
     </option>
   </component>
@@ -90,6 +119,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -112,16 +142,6 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="IPValidationKata (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="IPValidationKata (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="IPValidationKata" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="IPValidationKata (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="IPValidationKataTest" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -133,6 +153,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.CSharpInteractiveConfiguration" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,6 +188,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a7fe9a80-75e6-403d-9205-5fd0c0271a64" name="Default" comment="" />
@@ -175,11 +199,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512667476732</updated>
       <workItem from="1512667478307" duration="8214000" />
+      <workItem from="1512781651845" duration="9081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8214000" />
+    <option name="totallyTimeSpent" value="17295000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -191,28 +216,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1084" extended-state="6" />
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43843845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2529349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25256222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -227,11 +254,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IPValidationKata/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512781561321" expanded="true" signature="41:182" ph="{...}" />
+            <marker date="1512781561321" expanded="true" signature="61:180" ph="{...}" />
+            <marker date="1512781561321" expanded="true" signature="107:174" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/IPValidationKataTest/IPValidationKataTest.csproj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="11" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -240,42 +278,43 @@
         <state relative-caret-position="144">
           <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding>
-            <marker date="1512667491215" expanded="true" signature="41:182" ph="{...}" />
-            <marker date="1512667491215" expanded="true" signature="61:180" ph="{...}" />
-            <marker date="1512667491215" expanded="true" signature="107:174" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IPValidationKata/IpValidation.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <marker date="1512680647266" expanded="true" signature="41:430" ph="{...}" />
-            <marker date="1512680647266" expanded="true" signature="73:428" ph="{...}" />
-            <marker date="1512680647266" expanded="true" signature="109:132" ph="{...}" />
-            <marker date="1512680647266" expanded="true" signature="197:421" ph="{...}" />
-            <marker date="1512680647266" expanded="true" signature="285:411" ph="/* var ipAddresQuebradoPorOctets = ipAddres.Split('.'); ... */" />
+            <marker date="1512781561321" expanded="true" signature="41:182" ph="{...}" />
+            <marker date="1512781561321" expanded="true" signature="61:180" ph="{...}" />
+            <marker date="1512781561321" expanded="true" signature="107:174" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IPValidationKataTest/IpValidationTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="-189">
+          <caret line="93" column="9" lean-forward="false" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
           <folding>
-            <marker date="1512680569500" expanded="true" signature="6:67" ph="..." />
-            <marker date="1512680569500" expanded="true" signature="99:3621" ph="{...}" />
-            <marker date="1512680569500" expanded="true" signature="136:3619" ph="{...}" />
-            <marker date="1512680569500" expanded="true" signature="218:372" ph="{...}" />
-            <marker date="1512680569500" expanded="true" signature="711:857" ph="{...}" />
-            <marker date="1512680569500" expanded="true" signature="1324:1470" ph="{...}" />
-            <marker date="1512680569500" expanded="true" signature="1963:1996" ph="{...}" />
-            <marker date="1512680569500" expanded="true" signature="2618:2651" ph="{...}" />
-            <marker date="1512680569500" expanded="true" signature="3084:3117" ph="{...}" />
-            <marker date="1512680569500" expanded="true" signature="3580:3613" ph="{...}" />
+            <marker date="1512789985369" expanded="true" signature="6:67" ph="..." />
+            <marker date="1512789985369" expanded="true" signature="99:4956" ph="{...}" />
+            <marker date="1512789985369" expanded="true" signature="136:4954" ph="{...}" />
+            <marker date="1512789985369" expanded="true" signature="218:372" ph="{...}" />
+            <marker date="1512789985369" expanded="true" signature="711:857" ph="{...}" />
+            <marker date="1512789985369" expanded="true" signature="1324:1470" ph="{...}" />
+            <marker date="1512789985369" expanded="true" signature="1963:2108" ph="{...}" />
+            <marker date="1512789985369" expanded="true" signature="2730:2876" ph="{...}" />
+            <marker date="1512789985369" expanded="true" signature="3309:3454" ph="{...}" />
+            <marker date="1512789985369" expanded="true" signature="4207:4353" ph="{...}" />
+            <marker date="1512789985369" expanded="true" signature="4802:4948" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPValidationKata/IpValidation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <marker date="1512789557539" expanded="true" signature="6:32" ph="..." />
+            <marker date="1512789557539" expanded="true" signature="60:885" ph="{...}" />
+            <marker date="1512789557539" expanded="true" signature="99:883" ph="{...}" />
+            <marker date="1512789557539" expanded="true" signature="161:877" ph="{...}" />
+            <marker date="1512789557539" expanded="true" signature="391:770" ph="{...}" />
           </folding>
         </state>
       </provider>

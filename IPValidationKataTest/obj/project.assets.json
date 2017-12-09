@@ -1663,9 +1663,6 @@
       "IPValidationKata/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
-        "dependencies": {
-          "Microsoft.NETCore.App": "2.0.0"
-        },
         "compile": {
           "bin/placeholder/IPValidationKata.dll": {}
         },
@@ -5634,19 +5631,23 @@
     ]
   },
   "packageFolders": {
-    "/home/desenvolvedor/.nuget/packages/": {}
+    "/home/gmarcial/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKataTest/IPValidationKataTest.csproj",
+      "projectUniqueName": "/home/gmarcial/Documentos/Projetos/IPValidationKata/IPValidationKataTest/IPValidationKataTest.csproj",
       "projectName": "IPValidationKataTest",
-      "projectPath": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKataTest/IPValidationKataTest.csproj",
-      "packagesPath": "/home/desenvolvedor/.nuget/packages/",
-      "outputPath": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKataTest/obj/",
+      "projectPath": "/home/gmarcial/Documentos/Projetos/IPValidationKata/IPValidationKataTest/IPValidationKataTest.csproj",
+      "packagesPath": "/home/gmarcial/.nuget/packages/",
+      "outputPath": "/home/gmarcial/Documentos/Projetos/IPValidationKata/IPValidationKataTest/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/home/desenvolvedor/.config/NuGet/NuGet.Config"
+        "/home/gmarcial/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -5657,19 +5658,26 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/IPValidationKata.csproj": {
-              "projectPath": "/home/desenvolvedor/RiderProjects/IPValidationKata/IPValidationKata/IPValidationKata.csproj"
+            "/home/gmarcial/Documentos/Projetos/IPValidationKata/IPValidationKata/IPValidationKata.csproj": {
+              "projectPath": "/home/gmarcial/Documentos/Projetos/IPValidationKata/IPValidationKata/IPValidationKata.csproj"
             }
           }
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0"
+            "version": "2.0.0",
+            "autoReferenced": true
           },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",

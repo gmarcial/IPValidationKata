@@ -56,7 +56,8 @@ namespace IPValidationKataTest
         [InlineData("76.81.23.55")]
         public void Ipv4_valido_tem_octets_com_valor_entre_zero_e_vintequatro(string ipString)
         {
-            
+            var resultadoValidacao = IpValidation.is_valid_IP(ipString);
+            Assert.Equal(true, resultadoValidacao);
         }
         
         [Theory]
@@ -72,7 +73,8 @@ namespace IPValidationKataTest
         [InlineData("71231236.812341.21233.131255")]
         public void Ipv4_invalido_tem_octets_com_valor_diferente_de_zero_e_vintequatro(string ipString)
         {
-            
+            var resultadoValidacao = IpValidation.is_valid_IP(ipString);
+            Assert.Equal(false, resultadoValidacao);
         }
         
         [Theory]
@@ -87,7 +89,30 @@ namespace IPValidationKataTest
         [InlineData("9.9.9.9")]
         public void Ipv4_valido_tem_octets_com_valor_de_uma_casa_decimal_nao_devem_ter_zero_na_frente(string ipString)
         {
-            
+            var resultadoValidacao = IpValidation.is_valid_IP(ipString);
+            Assert.Equal(true, resultadoValidacao);
+        }
+
+        [Theory]
+        [InlineData(" ")]
+        [InlineData("123.245.255.-132")]
+        [InlineData("123.245.255 .132")]
+        [InlineData("123. 245.255.132")]
+        [InlineData("aasdasdasdasdas")]
+        [InlineData("aasa.asdasd.asdasdsad.asdasda")]
+        [InlineData("####.####.####.####")]
+        [InlineData("****.****.****.****")]
+        [InlineData("@@@@.@@@@.@@@@.@@@@")]
+        [InlineData("$$$$.$$$$.$$$$.$$$$")]
+        [InlineData("%%%%.%%%%.%%%%.%%%%")]
+        [InlineData("&&&&.&&&&.&&&&.&&&&")]
+        [InlineData("++++.++++.++++.++++")]
+        [InlineData("----.----.----.----")]
+        [InlineData("asd1231.131asdas.ad123ad.dasd123asd")]
+        public void Ipv4_invalido_tem_octets_com_valor_literal(string ipString)
+        {
+            var resultadoValidacao = IpValidation.is_valid_IP(ipString);
+            Assert.Equal(false, resultadoValidacao);
         }
         
         [Theory]
@@ -100,9 +125,10 @@ namespace IPValidationKataTest
         [InlineData("07.07.07.07")]
         [InlineData("08.08.08.08")]
         [InlineData("09.09.09.09")]
-        public void Ipv4_invalido_tem_octets_com_valor_de_uma_casa_decimal_e_tem_zero_na_frente(string ipString)
+        public void Ipv4_invalido_tem_octets_que_comecam_com_valor_zero_na_frente(string ipString)
         {
-            
+            var resultadoValidacao = IpValidation.is_valid_IP(ipString);
+            Assert.Equal(false, resultadoValidacao);
         }
     }
 }
