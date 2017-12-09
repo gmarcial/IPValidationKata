@@ -44,6 +44,7 @@ namespace IPValidationKataTest
         }
 
         [Theory]
+        [InlineData("123.0.0.132")]
         [InlineData("123.245.255.132")]
         [InlineData("240.35.213.145")]
         [InlineData("78.43.34.133")]

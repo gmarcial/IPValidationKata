@@ -15,11 +15,14 @@ namespace IPValidationKata
             {
                 if (octetEmString.StartsWith(' ')) return false;
                 if (octetEmString.EndsWith(' ')) return false;
-                if (octetEmString.StartsWith('0')) return false;
+
+                if (octetEmString.Length > 1)
+                    if (octetEmString.StartsWith('0'))
+                        return false;
 
                 if (!int.TryParse(octetEmString, out var octetEmDecimal)) return false;
 
-                return octetEmDecimal > 0 && octetEmDecimal <= 255;
+                return octetEmDecimal >= 0 && octetEmDecimal <= 255;
             }).Count(resultadoOctet => resultadoOctet.Equals(true));
             
             return resultadoValidadeOctets == 4;
